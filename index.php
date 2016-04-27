@@ -7,7 +7,7 @@
  *  - requires App.baseUrl to be uncommented in app/Config/core.php
  *	- app/webroot is not set as a document root.
  *
- * PHP 5
+ * PHP 5 - build
  *
  * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
  * Copyright (c), Cake Software Foundation, Inc. (http://cakefoundation.org)
