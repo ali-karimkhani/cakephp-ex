@@ -14,4 +14,4 @@ if [ -f ${HOME}/app/Console/cake ]; then
 	ln -s ${HOME}/app/Console/cake ${HOME}/bin/cake
 fi
 
-echo "this is just a test"
+echo "this is just a test 2"
